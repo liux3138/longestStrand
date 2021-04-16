@@ -10,4 +10,4 @@ The program should display:
 - the offset where the strand appears in each file
 
 # Method
-The longest common substrings of a set of strings can be found by building a generalized suffix tree for the strings, and then finding the deepest internal nodes which have leaf nodes from all the strings in the subtree below it. (Sources: [Wikipedia](https://en.wikipedia.org/wiki/Longest_common_substring_problem), [Suffix Tree Application 5 – Longest Common Substring](https://www.geeksforgeeks.org/suffix-tree-application-5-longest-common-substring-2/))
+The longest common substrings of a set of strings can be found by building a generalized suffix tree for the strings, and then finding the deepest internal nodes which have leaf nodes from all the strings in the subtree below it. (Sources: [Wikipedia: Longest common substring problem](https://en.wikipedia.org/wiki/Longest_common_substring_problem), [Suffix Tree Application 5 – Longest Common Substring](https://www.geeksforgeeks.org/suffix-tree-application-5-longest-common-substring-2/))

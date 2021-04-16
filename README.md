@@ -10,3 +10,4 @@ The program should display:
 - the offset where the strand appears in each file
 
 # Method
+The longest common substrings of a set of strings can be found by building a generalized suffix tree for the strings, and then finding the deepest internal nodes which have leaf nodes from all the strings in the subtree below it.

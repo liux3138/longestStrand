@@ -1,0 +1,3 @@
+The length of the longest strand of bytes is: 27648
+The largest strand appears at sample.2 and the offset in bytes is 3072
+The largest strand appears at sample.3 and the offset in bytes is 17408
